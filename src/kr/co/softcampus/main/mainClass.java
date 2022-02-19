@@ -14,6 +14,9 @@ public class mainClass {
 		
 		HelloWorldEn hello2 =  new HelloWorldEn();
 		callMethod(hello2);
+		
+		HelloWorldEn hello3 =  new HelloWorldEn();
+		callMethod(hello3);
 	}
 	
 	public static void callMethod(HelloWorldEn hello) {
