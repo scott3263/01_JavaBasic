@@ -2,7 +2,7 @@ package kr.co.softcampus.beans;
 
 public class HelloWorldEn {
 	public void sayHello(){
-		System.out.println("HelloWorldEn �Դϴ�.");
+		System.out.println("HelloWorldEn 입니다.");
 	}
 	
 }
