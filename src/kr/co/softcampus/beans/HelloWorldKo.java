@@ -2,6 +2,6 @@ package kr.co.softcampus.beans;
 
 public class HelloWorldKo {
 	public void sayHello() {
-		System.out.println("æ»≥Á 1");
+		System.out.println("HelloWorldKo ¿‘¥œ¥Ÿ.");
 	}
 }

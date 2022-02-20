@@ -2,8 +2,7 @@ package kr.co.softcampus.beans;
 
 public class HelloWorldEn {
 	public void sayHello(){
-		System.out.println("Hi 1");
-		
+		System.out.println("HelloWorldEn ¿‘¥œ¥Ÿ.");
 	}
 	
 }
